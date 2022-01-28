@@ -1,0 +1,366 @@
+[
+    {
+        "id": 358,
+        "name": "ADA/USD",
+        "ric": "ADA/USD-CXDXF",
+        "type": 1,
+        "sort": 3
+    },
+    {
+        "id": 364,
+        "name": "BSV/USDT",
+        "ric": "BSV/USDT-CXDXF",
+        "type": 1,
+        "sort": 8
+    },
+    {
+        "id": 362,
+        "name": "LTC/USDT",
+        "ric": "LTC/USDT-CXDXF",
+        "type": 1,
+        "sort": 11
+    },
+    {
+        "id": 347,
+        "name": "Crypto IDX",
+        "ric": "Z-CRY/IDX",
+        "type": 1,
+        "sort": 16
+    },
+    {
+        "id": 337,
+        "name": "AUD/NZD",
+        "ric": "AUD/NZD-AFX",
+        "type": 1,
+        "sort": 17
+    },
+    {
+        "id": 340,
+        "name": "GBP/NZD",
+        "ric": "GBP/NZD-AFX",
+        "type": 1,
+        "sort": 18
+    },
+    {
+        "id": 339,
+        "name": "EUR/NZD",
+        "ric": "EUR/NZD-HSFX",
+        "type": 1,
+        "sort": 19
+    },
+    {
+        "id": 342,
+        "name": "EUR/MXN",
+        "ric": "EUR/MXN-AFX",
+        "type": 1,
+        "sort": 20
+    },
+    {
+        "id": 343,
+        "name": "ALTHBTC",
+        "ric": "ALTHBTC/BTC-CXDXF",
+        "type": 1,
+        "sort": 24
+    },
+    {
+        "id": 341,
+        "name": "Altcoin IDX",
+        "ric": "ALTHUOB/BTC-CXDX",
+        "type": 1,
+        "sort": 25
+    },
+    {
+        "id": 335,
+        "name": "EUR IDX",
+        "ric": "EURX-DXF",
+        "type": 1,
+        "sort": 27
+    },
+    {
+        "id": 336,
+        "name": "JPY IDX",
+        "ric": "JPYX-DXF",
+        "type": 1,
+        "sort": 28
+    },
+    {
+        "id": 187,
+        "name": "EUR/USD ",
+        "ric": "EURO",
+        "type": 1,
+        "sort": 29
+    },
+    {
+        "id": 330,
+        "name": "BCH/USDT",
+        "ric": "BCH/USDT-CXDXF",
+        "type": 1,
+        "sort": 35
+    },
+    {
+        "id": 205,
+        "name": "AUD/USD",
+        "ric": "AUD/USD",
+        "type": 1,
+        "sort": 43
+    },
+    {
+        "id": 206,
+        "name": "AUD/CAD",
+        "ric": "AUD/CAD",
+        "type": 1,
+        "sort": 44
+    },
+    {
+        "id": 223,
+        "name": "EUR/JPY",
+        "ric": "EUR/JPY",
+        "type": 1,
+        "sort": 46
+    },
+    {
+        "id": 210,
+        "name": "AUD/JPY",
+        "ric": "AUD/JPY",
+        "type": 1,
+        "sort": 48
+    },
+    {
+        "id": 209,
+        "name": "USD/JPY ",
+        "ric": "USD/JPY",
+        "type": 1,
+        "sort": 49
+    },
+    {
+        "id": 207,
+        "name": "GBP/JPY ",
+        "ric": "GBP/JPY",
+        "type": 1,
+        "sort": 51
+    },
+    {
+        "id": 224,
+        "name": "USD/CAD ",
+        "ric": "USD/CAD",
+        "type": 1,
+        "sort": 52
+    },
+    {
+        "id": 302,
+        "name": "EUR/CAD (OTC)",
+        "ric": "Z-EUR/CAD",
+        "type": 1,
+        "sort": 54
+    },
+    {
+        "id": 215,
+        "name": "EUR/CAD ",
+        "ric": "EUR/CAD",
+        "type": 1,
+        "sort": 55
+    },
+    {
+        "id": 231,
+        "name": "Silver",
+        "ric": "XAG/USD-AFX",
+        "type": 5,
+        "sort": 58
+    },
+    {
+        "id": 208,
+        "name": "NZD/USD ",
+        "ric": "NZD/USD",
+        "type": 1,
+        "sort": 60
+    },
+    {
+        "id": 225,
+        "name": "EUR/GBP ",
+        "ric": "EUR/GBP",
+        "type": 1,
+        "sort": 62
+    },
+    {
+        "id": 232,
+        "name": "Gold",
+        "ric": "XAU/USD-HSFX",
+        "type": 5,
+        "sort": 64
+    },
+    {
+        "id": 299,
+        "name": "USD/JPY (OTC)",
+        "ric": "Z-USD/JPY",
+        "type": 1,
+        "sort": 66
+    },
+    {
+        "id": 285,
+        "name": "AEX",
+        "ric": "AEX",
+        "type": 5,
+        "sort": 67
+    },
+    {
+        "id": 241,
+        "name": "GBP/USD (OTC)",
+        "ric": "Z-GBP/USD",
+        "type": 1,
+        "sort": 68
+    },
+    {
+        "id": 235,
+        "name": "EUR/USD (OTC)",
+        "ric": "Z-EUR/USD",
+        "type": 1,
+        "sort": 70
+    },
+    {
+        "id": 286,
+        "name": "CAC",
+        "ric": "CAC",
+        "type": 5,
+        "sort": 72
+    },
+    {
+        "id": 217,
+        "name": "USD/CHF ",
+        "ric": "USD/CHF",
+        "type": 1,
+        "sort": 73
+    },
+    {
+        "id": 227,
+        "name": "Google",
+        "ric": "GOOG",
+        "type": 7,
+        "sort": 76
+    },
+    {
+        "id": 244,
+        "name": "AUD/CAD (OTC)",
+        "ric": "Z-AUD/CAD",
+        "type": 1,
+        "sort": 78
+    },
+    {
+        "id": 257,
+        "name": "Boeing",
+        "ric": "BA",
+        "type": 7,
+        "sort": 79
+    },
+    {
+        "id": 255,
+        "name": "Microsoft",
+        "ric": "MSFT",
+        "type": 7,
+        "sort": 81
+    },
+    {
+        "id": 259,
+        "name": "McDonalds",
+        "ric": "MCD",
+        "type": 7,
+        "sort": 82
+    },
+    {
+        "id": 262,
+        "name": "Vodafone",
+        "ric": "VOD",
+        "type": 7,
+        "sort": 83
+    },
+    {
+        "id": 247,
+        "name": "IBM",
+        "ric": "IBM",
+        "type": 7,
+        "sort": 90
+    },
+    {
+        "id": 245,
+        "name": "Coca Cola",
+        "ric": "COKE",
+        "type": 7,
+        "sort": 92
+    },
+    {
+        "id": 267,
+        "name": "AIG",
+        "ric": "AIG",
+        "type": 7,
+        "sort": 93
+    },
+    {
+        "id": 294,
+        "name": "NASDAQ 100",
+        "ric": "NDX",
+        "type": 5,
+        "sort": 96
+    },
+    {
+        "id": 293,
+        "name": "Dow Jones IA",
+        "ric": "INDU",
+        "type": 5,
+        "sort": 97
+    },
+    {
+        "id": 276,
+        "name": "Bitcoin",
+        "ric": "XBT/USD",
+        "type": 1,
+        "sort": 99
+    },
+    {
+        "id": 237,
+        "name": "GBP/JPY (OTC)",
+        "ric": "Z-GBP/JPY",
+        "type": 1,
+        "sort": 100
+    },
+    {
+        "id": 277,
+        "name": "Litecoin",
+        "ric": "LTC/USD",
+        "type": 1,
+        "sort": 101
+    },
+    {
+        "id": 212,
+        "name": "CHF/JPY ",
+        "ric": "CHF/JPY",
+        "type": 1,
+        "sort": 104
+    },
+    {
+        "id": 220,
+        "name": "USD/NOK ",
+        "ric": "USD/NOK",
+        "type": 1,
+        "sort": 105
+    },
+    {
+        "id": 94,
+        "name": "NZD/JPY",
+        "ric": "NZD/JPY",
+        "type": 1,
+        "sort": 106
+    },
+    {
+        "id": 22,
+        "name": "PayPal",
+        "ric": "PYPL",
+        "type": 7,
+        "sort": 185
+    },
+    {
+        "id": 24,
+        "name": "JD",
+        "ric": "JD",
+        "type": 7,
+        "sort": 187
+    }
+]
